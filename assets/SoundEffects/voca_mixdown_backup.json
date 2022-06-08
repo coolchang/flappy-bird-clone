@@ -1,0 +1,32 @@
+{
+  "resources": [    
+    "./assets/audio/SoundEffects/15_001~030.ogg",
+    "./assets/audio/SoundEffects/15_001~030.mp3"
+  ],
+  "spritemap": {  
+      "admirable":{
+      "start": 1,
+      "end": 2,
+      "loop": false,
+      "meaning": "감탄스러운"
+    },
+      "adolescence":{
+        "start": 7.3,
+        "end": 8.6,
+        "loop": false,
+        "meaning": "청소년기"
+    },
+      "adoration":{
+        "start": 13,
+        "end": 14,
+        "loop": false,
+        "meaning": "흠모"
+    },
+        "artistically":{
+          "start": 19.5,
+          "end": 21,
+          "loop": false,
+          "meaning": "예술적으로"
+    }
+  }
+}
